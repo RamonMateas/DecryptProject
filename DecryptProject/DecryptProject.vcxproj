@@ -128,16 +128,32 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="affine.cpp" />
+    <ClCompile Include="atbash.cpp" />
+    <ClCompile Include="baconian.cpp" />
+    <ClCompile Include="base64.cpp" />
     <ClCompile Include="DecryptProject.cpp" />
     <ClCompile Include="morse.cpp" />
+    <ClCompile Include="playfair.cpp" />
     <ClCompile Include="railfence.cpp" />
+    <ClCompile Include="cipher.cpp" />
+    <ClCompile Include="rot.cpp" />
+    <ClCompile Include="simple_substitution.cpp" />
+    <ClCompile Include="text.cpp" />
     <ClCompile Include="vigenere.cpp" />
     <ClCompile Include="xor.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="affine.h" />
+    <ClInclude Include="atbash.h" />
+    <ClInclude Include="baconian.h" />
+    <ClInclude Include="base64.h" />
     <ClInclude Include="morse.h" />
+    <ClInclude Include="playfair.h" />
     <ClInclude Include="railfence.h" />
+    <ClInclude Include="cipher.h" />
+    <ClInclude Include="rot.h" />
+    <ClInclude Include="simple_substitution.h" />
+    <ClInclude Include="text.h" />
     <ClInclude Include="vigenere.h" />
     <ClInclude Include="xor.h" />
   </ItemGroup>

@@ -1,0 +1,32 @@
+Plaintext: Hello there how are you doing on this wonderful day of Saturday? Oh you're having an exam? Uff, that's tuff! Good luck!
+
+Vigenere Cipher(Key:"KEY"): Rijvs rripo lmg epo cme hmsre yr rrmq gslnippyj new yj Qkxsbhyi? Sf iss'bi fkzgxk yx ivkq? Spj, rrer'c xspj! Zex eysb vyau!
+
+XOR Cipher(Key:4b4559): 032035272a793f2d3c392079232a2e6b242b2e65202430792f2a30252279242b793f2d3038652e242b3d2e373f3e29792f24206b2a3f6b16383f302b2f242074651623652024307e39207923242f222b3e6b24376b20212a28666b103f2d69793f2d383f622a6b312c2d23786b023624217927303a2064
+
+Affine Cipher(Coeficient A: 3; Coeficient B: 1):Wniir gwnan wrp ban vrj krzot ro gwzd proknaqji kbv rq Dbgjakbv? Rw vrj'an wbmzot bo nsbl? Jqq, gwbg'd gjqq! Ejg trrk ijhf!
+
+Morse Code : .... . .-.. .-.. --- / - .... . .-. . / .... --- .-- / .- .-. . / -.-- --- ..- / -.. --- .. -. --. / --- -. / - .... .. ... / .-- --- -. -.. . .-. ..-. ..- .-.. / -.. .- -.-- / --- ..-. / ... .- - ..- .-. -.. .- -.-- ..--.. / --- .... / -.-- --- ..- .----. .-. . / .... .- ...- .. -. --. / .- -. / . -..- .- -- ..--.. / ..- ..-. ..-. --..-- / - .... .- - .----. ... / - ..- ..-. ..-. -.-.-- / --. --- --- -.. / .-.. ..- -.-. -.- -.-.--
+
+Rail Fence Cipher(Number of rails:3): HOEHAYDG SNFDOAD YEV E?FH FOL!EL HR O R O ON NTI ODRU A FSTRA?O OR AIGA XM F,TASTF!GO UKLTEWEUIOHWELY UYHUHNNAU TU DC
+
+ROT Cipher (13 shifts): Uryyb gurer ubj ner lbh qbvat ba guvf jbaqreshy qnl bs Fngheqnl? Bu lbh'er univat na rknz? Hss, gung'f ghss! Tbbq yhpx!
+
+Atbash Cipher: Svool gsviv sld ziv blf wlrmt lm gsrh dlmwviufo wzb lu Hzgfiwzb? Ls blf'iv szermt zm vczn? Fuu, gszg'h gfuu! Tllw ofxp!
+
+Base64 Decode: SGVsbG8gdGhlcmUgaG93IGFyZSB5b3UgZG9pbmcgb24gdGhpcyB3b25kZXJmdWwgZGF5IG9mIFNhdHVyZGF5PyBPaCB5b3UncmUgaGF2aW5nIGFuIGV4YW0/IFVmZiwgdGhhdCdzIHR1ZmYhIEdvb2QgbHVjayE=
+
+Hexadecimal Decode: 48656c6c6f20746865726520686f772061726520796f7520646f696e67206f6e207468697320776f6e64657266756c20646179206f662053617475726461793f204f6820796f7527726520686176696e6720616e206578616d3f205566662c2074686174277320747566662120476f6f64206c75636b21
+
+Substitution Cipher(key:"XYZABCDEFGHIJKLMNOPQRSTUVWxyzabcdefghijklmnopqrstuvw"): 
+Ebiil qebob elt xob vlr alfkd lk qefp tlkabocri axv lc Pxqroaxv? Le vlr'ob exsfkd xk buxj? Rcc, qexq'p qrcc! Dlla irzh!
+
+Baconian Cipher: AABBBAABAAABABBABABBABBBABAABBAABBBAABAABAAABAABAAAABBBABBBABABBAAAAAABAAABAABAABBAAAABBBABABAAAAABBABBBAABAAAABBABAABBAABBBAABBABBAABBAABBBABAAABAABABABBAABBBAABBABAAABBAABAABAAABAABABBABAAABABBAAABBAAAAABBAAAABBBAAABABBAABAAAAAABAABBBABAABAAABAAABBAAAAABBAAAABBBAAABBBBBAAAABBBABABAABAAABAABAAAABBBAAAAABABABABAAAABBABAABBAAAAAAABBABAABAABABBBAAAAAABBAABABAAAABABAABABBAABBAABBBAAAAABAABBBAABABAABBBABAAAABABAABABAABBAABBBAABBBAAAABBABABBBABAAAAABAABABA
+
+Polybius Square Cipher: 23153131344423154215233452114215543445143424332234334423244352343314154221453114115434214311444542141154342354344542152311512433221133155311324521214423114443444521212234341431451325
+
+Layers: Rail 8; XOR 4; ROT13; Base64
+474566364735434452654642c0ec201bd76048c9e00d5117b1ecaec24b2e54595d1d5377755333637747464577436467763653577773776570054077b70bb07b1fe92e1d784b406170e290151e6bb394557636445767633545557654537636544547764453663db0dad82c9e0517635012580ba75a750d87e51918260a666775344747757637753544546465555344757557547652109040be7797c020d02108
+
+
+

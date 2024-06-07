@@ -1,5 +1,4 @@
-﻿  DecryptProject.cpp
-  railfence.cpp
-D:\Info\1st Year\2nd Semester\Programming Project\DecryptProject\DecryptProject\DecryptProject\railfence.cpp(10,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  morse.cpp
+  text.cpp
   Generating Code...
-  DecryptProject.vcxproj -> D:\Info\1st Year\2nd Semester\Programming Project\DecryptProject\DecryptProject\x64\Debug\DecryptProject.exe
+  DecryptProject.vcxproj -> D:\Mark\UVT\PP\Cpp\x64\Debug\DecryptProject.exe
